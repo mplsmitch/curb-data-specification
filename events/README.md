@@ -142,6 +142,7 @@ Curb Event Type `event_type` enumerates the set of possible types of Curb Event.
 | `scheduled_report` | event source reported status at a scheduled interval |
 | `enter_area`       | vehicle enters the relevant geographic area |
 | `exit_area`        | vehicle exits the relevant geographic area |
+| `double_parking`   | a vehicle stopped or parked in a travel lane |
 
 [Top][toc]
 
